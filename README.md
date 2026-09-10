@@ -27,7 +27,7 @@ Below are the screenshots of the actual annotation work inside CVAT, demonstrati
 ![Bag Annotation](screenshots/bag_annotation.png)
 *Precise annotation on complex elements like thin shoulder straps and overlaps.*
 
-### Example 3: Bag with Thin Straps
+### Example 3: Multiple Objects in a Scene
 ![Bag Annotation](screenshots/shoe_bag_annotation.png)
 *Precise annotation on complex elements for multiple targeted objects.*
 
